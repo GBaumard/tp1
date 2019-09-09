@@ -1,10 +1,11 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : BAUMARD
+Prénom : Gaëtan
 
 # 1.
 Qu'est-ce qu'une instance EC2 ?
+c'est une instance créée et hébergée sur AWS.
 
 # 2.
 Qu'est-ce qu'un VPC ?
